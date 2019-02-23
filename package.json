@@ -4,7 +4,7 @@
   "description": "vulnerability sample",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.5"
+    "express": "^4.16.4"
   },
   "devDependencies": {
     "expect": "^24.1.0",
