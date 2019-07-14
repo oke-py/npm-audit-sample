@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "expect": "^24.8.0",
+    "lodash": ">=4.17.14",
     "mocha": "^6.1.4",
     "supertest": "^4.0.2"
   },
